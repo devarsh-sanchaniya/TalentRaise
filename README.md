@@ -42,3 +42,5 @@ Email notifications
 Interview scheduling system
 Real-time chat between recruiter & candidate
 Payment integration for premium job postings
+
+Note:- The complete source code is available inside the zip file in this repository. Please download and extract it to run project
